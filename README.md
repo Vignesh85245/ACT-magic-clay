@@ -1,1 +1,4 @@
-# ACT-magic-clay
+# act-magic-clay
+
+
+This is a training session
